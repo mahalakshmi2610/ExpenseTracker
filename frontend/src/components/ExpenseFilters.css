@@ -1,0 +1,20 @@
+.filters-container {
+  display: flex;
+  gap: 1rem;
+  align-items: center;
+  margin-bottom: 1rem;
+  flex-wrap: wrap;
+}
+
+.filters-container label {
+  margin-right: 0.25rem;
+}
+
+.clear-button {
+  background-color: #f44336;
+  color: white;
+  border: none;
+  padding: 0.5rem;
+  border-radius: 5px;
+  cursor: pointer;
+}
